@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674807730 source:d:\work space\aplikacje desktopowe\c++\pi\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+
